@@ -1,0 +1,7 @@
+.classpath
+.project
+.springBeans
+.settings
+*jdbc.properties
+target
+src/test/java/com/chanyongyang/persistence/JDBCTests.java
